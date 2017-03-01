@@ -1,2 +1,2 @@
 # rtt-cucumber-example
-RTT example of Cuucmber project
+RTT example of Cucumber project
