@@ -5,3 +5,7 @@ group :test do
   gem 'json'
   gem 'faker'
 end
+
+group :watir do
+  gem 'watir', '~> 6.0'
+end
